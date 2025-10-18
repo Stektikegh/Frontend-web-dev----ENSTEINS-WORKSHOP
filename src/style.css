@@ -1,0 +1,43 @@
+.Name {
+	background-color: red;
+	color: white;
+}
+
+
+.mylist>* {
+	background-color: orange;
+	margin: 20px;
+}
+
+.pfp {
+	margin-top:10px !important;
+}
+
+.beautifulImage {
+	display: block;
+	margin: auto;
+	margin-top: 100px;
+}
+
+
+.mylist>li {
+	display: inline;
+	font-size: 20px;
+	padding: 15px;
+	border: black 3px dotted;
+}
+
+.hidden {
+	display: none;
+}
+
+.SideBar{
+	position: absolute;
+	right: 0;
+	top:0;
+	bottom: 0;
+	margin: 0;
+	background-color: white;
+	padding: 30px;
+
+}
